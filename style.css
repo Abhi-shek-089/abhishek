@@ -51,8 +51,8 @@ button {
            font-size: 20px;
            text-transform: uppercase;
            position: absolute;
-           left: 160px;
-           top : 50%;
+           left: 50%;
+           top : 140px;
            
        }
        .name{
