@@ -52,7 +52,7 @@ button {
            text-transform: uppercase;
            position: absolute;
            left: 160px;
-           top : 135px;
+           top : 50%;
            
        }
        .name{
