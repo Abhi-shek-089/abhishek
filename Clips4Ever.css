@@ -1,0 +1,149 @@
+.Pok{
+padding: 20px 10px 20px;
+         background: red;
+         color: white;
+         font-family: Times New Roman;
+         text-align: center;
+         font-size: 25px;
+         border: 1px solid black;
+         
+}  
+
+.mark img{
+  position: absolute;
+  top: 40px;
+  width: 100px;
+  left: 25px;
+  border: 1px solid red;
+}
+  body{
+    background-color: #16d0ff ;
+  }
+  .market{
+    font-family: Times New Roman;
+    font-size: 20px;
+    position: absolute;
+    top: 165px;
+    padding: 10px 5px 10px ;
+    background: red;
+    color : white;
+    border: 1px solid black;
+  }
+  .mooo{
+    top: 350px;
+    color: white;
+  }
+.hook{
+  font-family: Times New Roman;
+    font-size: 20px;
+    position: absolute;
+    top: 225px;
+    color: red;
+}
+
+button {
+           border: 1px solid red;
+           background: #0076ff;
+           border-radius: 5px;
+           padding: 5px;
+           color: #fff;
+           font-weight: bold;
+           font-size: 20px;
+           text-transform: uppercase;
+           position: absolute;
+           left: 160px;
+           top : 135px;
+           
+       }
+       .name{
+         font-family: Times New Roman;
+        
+         text-align: center;
+         font-size: 20px;
+         padding: 10px 5px 10px;
+         color: white;
+         background-color:red;
+         border: 1px solid black;
+       }
+       .moon{
+         max-width: 100%;
+         height: auto;
+       }
+       .soon{
+         max-width: 100%;
+         height: auto;
+       }
+       .noon{
+         max-width: 100%;
+         height: auto;
+       }
+.khun{
+  max-width: 100%;
+         height: auto;
+}
+.hoon{
+  max-width: 100%;
+         height: auto;
+}
+.hii{
+  max-width: 100%;
+         height: auto;
+}
+.parki{
+max-width: 100%;
+         height: auto;
+}
+.noooo{
+max-width: 100%;
+         height: auto;
+}
+.home{
+  max-width: 100%;
+         height: auto;
+}
+.poo{
+  font-family: Times New Roman;
+  padding: 10px 5px 10px;
+  background-color: #128faf;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+  
+}
+#rony{
+  position: absolute;
+  top: 300px;
+}
+.boo{
+  font-family: Times New Roman;
+  padding: 10px 5px 10px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  border: 1px solid black;
+  font-size: 18px;
+}
+.po{
+  text-align: center;
+  font-size: 30px;
+  
+}
+.mm{
+  padding: 5px 10px 5px;
+  background-color: #00ff5b;
+  color: red;
+  font-family: Times New Roman;
+  text-align: center;
+  font-size: 30px;
+  border: 1px solid black;
+}
+.mar{
+font-family: Times New Roman;
+    font-size: 20px;
+    position: absolute;
+    top: 3480px;
+    padding: 10px 5px 10px ;
+    background: red;
+    color : white;
+    border: 1px solid black;
+}
